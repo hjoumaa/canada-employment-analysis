@@ -10,7 +10,7 @@
 
 Analyzed Statistics Canada employment data to compare long-term employment 
 trends between two industries: Professional, scientific and technical 
-services, and Information, culture and recreation. This project was 
+services (e.g., IT, engineering, consulting, legal, and research services), and Information, culture and recreation (e.g., telecommunications, media, libraries, arts, and entertainment sectors). This project was 
 motivated by my own transition into data and AI-adjacent roles — I wanted 
 to see how employment in this sector has actually grown over time using 
 real national data.
